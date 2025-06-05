@@ -1,0 +1,105 @@
+logging:
+    level:
+        de:
+            org:
+                dexterity:
+                    ticketsbooking: INFO
+spring:
+    application:
+        name: AlnsTicketsBookingSystem
+    datasource:
+        driver-class-name: org.postgresql.Driver
+        hikari:
+            auto-commit: false
+            poolName: Hikari
+        password: ''
+        type: com.zaxxer.hikari.HikariDataSource
+        url: jdbc:postgresql://localhost:5432/AlnsTicketsBookingSystem
+        username: AlnsTicketsBookingSystem
+    devtools:
+        livereload:
+            enabled: false
+        restart:
+            enabled: false
+    data:
+        jpa:
+            repositories:
+                bootstrap-mode: deferred
+    jpa:
+        hibernate:
+            ddl-auto: none
+            naming:
+                implicit-strategy: org.springframework.boot.orm.jpa.hibernate.SpringImplicitNamingStrategy
+                physical-strategy: org.hibernate.boot.model.naming.CamelCaseToUnderscoresNamingStrategy
+        open-in-view: false
+        properties:
+            hibernate:
+                connection:
+                    provider_disables_autocommit: true
+                generate_statistics: false
+                jdbc:
+                    batch_size: 25
+                    time_zone: UTC
+                order_inserts: true
+                order_updates: true
+                query:
+                    fail_on_pagination_over_collection_fetch: true
+                    in_clause_parameter_padding: true
+    liquibase:
+        change-log: classpath:config/liquibase/master.xml
+    jackson:
+        default-property-inclusion: non_absent
+    security:
+        oauth2:
+            client:
+                provider:
+                    oidc:
+                        issuer-uri: http://localhost:9080/realms/dexterity-apps-01
+                registration:
+                    oidc:
+                        client-id: web_app
+                        client-secret: web_app
+                        scope: openid,profile,email
+langchain4j:
+    open-ai:
+        chat-model:
+            # You can temporarily use 'demo' key, which is provided for free for demonstration purposes
+            api-key: demo
+            log-requests: 'true'
+            log-responses: 'true'
+            model-name: gpt-4o-mini
+management:
+    endpoint:
+        health:
+            probes:
+                enabled: true
+            show-details: always
+    endpoints:
+        web:
+            base-path: /management
+            exposure:
+                include:
+                    - configprops
+                    - env
+                    - health
+                    - info
+                    - logfile
+                    - loggers
+                    - threaddump
+server:
+    port: 8060
+application:
+    security:
+        oauth2:
+            audience: account,api://default
+springdoc:
+    enable-native-support: true
+    swagger-ui:
+        operationsSorter: alpha
+        tagsSorter: alpha
+        tryItOutEnabled: true
+        oauth:
+            client-id: web_app
+            realm: dexterity-apps-01
+    oauth2:
+        authorization-url: http://localhost:9080/realms/dexterity-apps-01/protocol/openid-connect/auth

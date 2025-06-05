@@ -1,0 +1,1294 @@
+{
+    "actions": [
+        {
+            "module": "init",
+            "date": "2025-06-05T17:13:10.932237292Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "maven-java",
+            "date": "2025-06-05T17:13:10.970869186Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "prettier",
+            "date": "2025-06-05T17:13:10.984889531Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "java-base",
+            "date": "2025-06-05T17:13:11.025985286Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "jib",
+            "date": "2025-06-05T17:13:11.039422517Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "maven-wrapper",
+            "date": "2025-06-05T17:13:11.048987087Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "typescript",
+            "date": "2025-06-05T17:13:11.068255693Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "java-memoizers",
+            "date": "2025-06-05T17:13:11.083315803Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "pagination-domain",
+            "date": "2025-06-05T17:13:11.110947286Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "react-core",
+            "date": "2025-06-05T17:13:11.152235479Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "spring-boot",
+            "date": "2025-06-05T17:13:11.225844680Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "datasource-postgresql",
+            "date": "2025-06-05T17:13:11.271703938Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "langchain4j",
+            "date": "2025-06-05T17:13:11.304023352Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "logs-spy",
+            "date": "2025-06-05T17:13:11.312094500Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "playwright-component-tests",
+            "date": "2025-06-05T17:13:11.321386161Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "playwright-e2e",
+            "date": "2025-06-05T17:13:11.330395136Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "react-i18next",
+            "date": "2025-06-05T17:13:11.345404328Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "spring-boot-cache",
+            "date": "2025-06-05T17:13:11.355908928Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "spring-boot-devtools",
+            "date": "2025-06-05T17:13:11.376558945Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "spring-boot-docker-compose",
+            "date": "2025-06-05T17:13:11.401408612Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "spring-boot-mvc-empty",
+            "date": "2025-06-05T17:13:11.418417200Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "jpa-postgresql",
+            "date": "2025-06-05T17:13:11.473585059Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "liquibase",
+            "date": "2025-06-05T17:13:11.505119457Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "spring-boot-actuator",
+            "date": "2025-06-05T17:13:11.526609215Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "spring-boot-tomcat",
+            "date": "2025-06-05T17:13:11.562288278Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "consul",
+            "date": "2025-06-05T17:13:11.613233981Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "frontend-maven-plugin",
+            "date": "2025-06-05T17:13:11.639931585Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "jpa-pagination",
+            "date": "2025-06-05T17:13:11.648635100Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "openapi-contract",
+            "date": "2025-06-05T17:13:11.670990182Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "spring-boot-cucumber-mvc",
+            "date": "2025-06-05T17:13:11.716333121Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "spring-boot-langchain4j-sample",
+            "date": "2025-06-05T17:13:11.724580920Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "spring-boot-oauth2",
+            "date": "2025-06-05T17:13:11.788289448Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "springdoc-mvc-openapi",
+            "date": "2025-06-05T17:13:11.825055683Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "kipe-authorization",
+            "date": "2025-06-05T17:13:11.836910341Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "kipe-expression",
+            "date": "2025-06-05T17:13:11.849939533Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "rest-pagination",
+            "date": "2025-06-05T17:13:11.859169226Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "spring-boot-cucumber-jpa-reset",
+            "date": "2025-06-05T17:13:11.866606416Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "spring-boot-cucumber-oauth2-authentication",
+            "date": "2025-06-05T17:13:11.909631020Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "spring-boot-oauth2-account",
+            "date": "2025-06-05T17:13:11.927438454Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "springdoc-oauth2",
+            "date": "2025-06-05T17:13:11.945826086Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "sample-feature",
+            "date": "2025-06-05T17:13:11.964897590Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "sample-liquibase-changelog",
+            "date": "2025-06-05T17:13:11.972695842Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "sample-jpa-persistence",
+            "date": "2025-06-05T17:13:11.984165880Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "init",
+            "date": "2025-06-05T17:13:15.062464099Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "maven-java",
+            "date": "2025-06-05T17:13:15.103617261Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "prettier",
+            "date": "2025-06-05T17:13:15.118060957Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "java-base",
+            "date": "2025-06-05T17:13:15.159347487Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "jib",
+            "date": "2025-06-05T17:13:15.174410397Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "maven-wrapper",
+            "date": "2025-06-05T17:13:15.185150371Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "typescript",
+            "date": "2025-06-05T17:13:15.201968348Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "java-memoizers",
+            "date": "2025-06-05T17:13:15.209553689Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "pagination-domain",
+            "date": "2025-06-05T17:13:15.225886309Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "react-core",
+            "date": "2025-06-05T17:13:15.262131724Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "spring-boot",
+            "date": "2025-06-05T17:13:15.339489736Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "datasource-postgresql",
+            "date": "2025-06-05T17:13:15.396315748Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "langchain4j",
+            "date": "2025-06-05T17:13:15.438669631Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "logs-spy",
+            "date": "2025-06-05T17:13:15.447306580Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "playwright-component-tests",
+            "date": "2025-06-05T17:13:15.456627649Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "playwright-e2e",
+            "date": "2025-06-05T17:13:15.465547572Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "react-i18next",
+            "date": "2025-06-05T17:13:15.479049510Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "spring-boot-cache",
+            "date": "2025-06-05T17:13:15.489142844Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "spring-boot-devtools",
+            "date": "2025-06-05T17:13:15.508256804Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "spring-boot-docker-compose",
+            "date": "2025-06-05T17:13:15.522160815Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "spring-boot-mvc-empty",
+            "date": "2025-06-05T17:13:15.529479454Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "jpa-postgresql",
+            "date": "2025-06-05T17:13:15.583008099Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "liquibase",
+            "date": "2025-06-05T17:13:15.607062321Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "spring-boot-actuator",
+            "date": "2025-06-05T17:13:15.627458245Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "spring-boot-tomcat",
+            "date": "2025-06-05T17:13:15.666803450Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "consul",
+            "date": "2025-06-05T17:13:15.731166871Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "frontend-maven-plugin",
+            "date": "2025-06-05T17:13:15.757926650Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "jpa-pagination",
+            "date": "2025-06-05T17:13:15.766661384Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "openapi-contract",
+            "date": "2025-06-05T17:13:15.787503744Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "spring-boot-cucumber-mvc",
+            "date": "2025-06-05T17:13:15.834106852Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "spring-boot-langchain4j-sample",
+            "date": "2025-06-05T17:13:15.842547456Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "spring-boot-oauth2",
+            "date": "2025-06-05T17:13:15.908411990Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "springdoc-mvc-openapi",
+            "date": "2025-06-05T17:13:15.945359487Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "kipe-authorization",
+            "date": "2025-06-05T17:13:15.959664451Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "kipe-expression",
+            "date": "2025-06-05T17:13:15.973357702Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "rest-pagination",
+            "date": "2025-06-05T17:13:15.982885611Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "spring-boot-cucumber-jpa-reset",
+            "date": "2025-06-05T17:13:15.990759505Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "spring-boot-cucumber-oauth2-authentication",
+            "date": "2025-06-05T17:13:16.031530804Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "spring-boot-oauth2-account",
+            "date": "2025-06-05T17:13:16.062141927Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "springdoc-oauth2",
+            "date": "2025-06-05T17:13:16.100611609Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "sample-feature",
+            "date": "2025-06-05T17:13:16.142100411Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "sample-liquibase-changelog",
+            "date": "2025-06-05T17:13:16.160519107Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        },
+        {
+            "module": "sample-jpa-persistence",
+            "date": "2025-06-05T17:13:16.184320563Z",
+            "properties": {
+                "packageName": "de.org.dexterity.ticketsbooking",
+                "projectName": "ALNS-Tickets-Booking-System",
+                "baseName": "AlnsTicketsBookingSystem",
+                "serverPort": 8060,
+                "endOfLine": "crlf",
+                "keycloakClientScopeName": "ticketsbookingapp",
+                "keycloakRealmName": "dexterity-apps-01",
+                "indentSize": 4,
+                "springConfigurationFormat": "yaml"
+            }
+        }
+    ]
+}
